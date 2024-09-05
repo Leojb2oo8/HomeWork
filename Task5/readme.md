@@ -1,0 +1,1 @@
+Design a maths quiz that ask five questions by randomly generating two whole numbers to make the questions (e.g [num1] +[num2]). A user should be asked to enter the answer. If they get it right, add a point to their score. At the end of the quiz, tell them how many they got correct out of five.

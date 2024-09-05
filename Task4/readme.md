@@ -1,0 +1,1 @@
+Write a program to randomly choose either heads or tails (“h” or “t”). ask the user to make their choice, if their choice is the same as the randomly selected value, display the message “You win”, otherwise display “Bad luck”. At the end, tell the user if the computer selected heads or tails.
